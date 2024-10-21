@@ -1,4 +1,4 @@
-## [0. Основы markdow на GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## [0 Основы markdow на GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ## 1 Работа с локальным репозиторием
 ### 1.1 Инициализация  
 - Инициализировать репозиторий можно с помощью команды ```git init```.  
